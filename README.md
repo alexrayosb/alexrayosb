@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexrayosb
-- 👀 I’m interested in learning about cyber security.
-- 🌱 I’m currently learning how to write C.
-- 💞️ I’m not looking to collaborate.
+- 👀 I’m interested in learning about large data management systems.
+- 🌱 I’m currently learning how to write in Rust.
 
 <!---
 alexrayosb/alexrayosb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
